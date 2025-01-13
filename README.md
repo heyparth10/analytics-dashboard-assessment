@@ -78,3 +78,5 @@ A Download Dataset button allows users to access the dataset directly.
 An FAQ Section provides answers to common questions about EV data and trends.
 Accessibility:
 The dashboard is deployed and publicly accessible for easy sharing and review.
+**URL**
+https://ev-dashboard-rho.vercel.app/
